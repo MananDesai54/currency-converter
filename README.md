@@ -1,2 +1,2 @@
 # currency-converter
-usinf exchange rate api and javascript fetch api
+using exchange rate api and javascript fetch api
